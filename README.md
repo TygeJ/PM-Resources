@@ -1,6 +1,7 @@
 MON - THUR			
 
-8:05 AM	PM Stand Up Meeting	Zoom	
+8:05 AM	PM Stand Up Meeting	
+
 8:45 AM	Student Code Challenge	Zoom	
 	Take Attendance	Airtable	
 9:00 AM	Instructor Lecture	Zoom	
