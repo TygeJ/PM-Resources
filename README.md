@@ -39,8 +39,8 @@ FRIDAY
 
 RESOURCES
 
-CS7 Student Info - https://docs.google.com/spreadsheets/d/1U7f93fjcB02d33--bMgC1-eEEyXrw_eH55duABnnurY/edit?ts=5a7ebee5#gid=1309477307
-Syllabus (training kit)	- https://tk.lambdaschool.com/cs-master	
-LS Code Solution how-to	- https://gist.github.com/tetondan/c5ef3989d9472da683bf692855ae65b0	
-Patricks PM Description	- https://github.com/mixelpixel/LambdaSchoolTA#project-managers	
-Pair Programming Checklist	- https://github.com/LambdaSchool/pair-programming-checklist	
+- CS7 Student Info - https://docs.google.com/spreadsheets/d/1U7f93fjcB02d33--bMgC1-eEEyXrw_eH55duABnnurY/edit?ts=5a7ebee5#gid=1309477307
+- Syllabus (training kit)	- https://tk.lambdaschool.com/cs-master	
+- LS Code Solution how-to	- https://gist.github.com/tetondan/c5ef3989d9472da683bf692855ae65b0	
+- Patricks PM Description	- https://github.com/mixelpixel/LambdaSchoolTA#project-managers	
+- Pair Programming Checklist	- https://github.com/LambdaSchool/pair-programming-checklist	
