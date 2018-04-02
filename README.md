@@ -19,9 +19,13 @@ MON - THUR PDT
 4:00 PM	End of Day Stand Up
 - Zoom	
 - EOD Student Report
-- Student link (should be automatically sent to them in slack at end of each day).
-	EOD Student Report Results	Airtable	* FOR LS STAFF, DO NOT SEND TO STUDENTS* Password: LambdaPMCS7
-	PM Daily Retrospective	Airtable	
+- Student link (should be automatically sent to them in slack at end of each day). - https://airtable.com/shr8ZYuNjevMLRsxI
+- EOD Student Report Results - https://airtable.com/shrKGCKg3cwq5EWUt/tblmsANyFPw14tB0h	* FOR LS STAFF, DO NOT SEND TO STUDENTS*
+- PM Daily Retrospective - https://airtable.com/shripCmauVlvxNrAT
+
+-----
+
+
 FRIDAY			
 			
 8:00 AM	Clock In	Slack/Jibble App	
