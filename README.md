@@ -10,8 +10,6 @@ MON - THUR PDT
 	
 9:00 AM: Instructor Lecture
 - Zoom
-
-11:00 AM: Lunch		
 	
 12:00 PM: Code Reviews
 - Checklist - https://github.com/LambdaSchool/Code-Review-Checklist
