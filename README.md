@@ -2,7 +2,7 @@ MON - THUR PDT
 
 8:05 AM: PM Stand Up Meeting
 - Zoom
-- CS7 - https://zoom.us/j/373539169
+- CS7 - https://zoom.us/j/373539169/
 
 8:45 AM: Student Code Challenge	
 - Zoom
@@ -17,7 +17,7 @@ MON - THUR PDT
 - Checklist - https://github.com/LambdaSchool/Code-Review-Checklist
 
 4:00 PM	End of Day Stand Up
-- Zoom	
+- Zoom	CS7 - https://zoom.us/j/373539169
 - EOD Student Report
 - Student link (should be automatically sent to them in slack at end of each day). - https://airtable.com/shr8ZYuNjevMLRsxI
 - EOD Student Report Results - https://airtable.com/shrKGCKg3cwq5EWUt/tblmsANyFPw14tB0h	* FOR LS STAFF, DO NOT SEND TO STUDENTS*
@@ -28,16 +28,18 @@ MON - THUR PDT
 
 FRIDAY			
 			
-8:00 AM	Clock In	Slack/Jibble App	
-8:05 AM	PM Stand Up Meeting	Zoom	
-	Take Attendance	Airtable	
-	Instuctor/PM Review	Zoom	
-	PM Sprint Review	Airtable	PM rating and feedback for students after 1 on 1.
-	Sprint Review Airtable Base	Airtable	Password: LambdaPM
+8:05 AM	PM Stand Up Meeting
+- Zoom CS7: https://zoom.us/j/373539169
+- Take Attendance	Airtable - https://airtable.com/shrEawWXvMldYbm5Q
+- Instuctor/PM Review	Zoom
+- PM Sprint Review	Airtable - https://airtable.com/shr6wexWV3RM4ITJP
+- Sprint Review Airtable Base	- https://airtable.com/shrEnghwzzhacLtaL/tblODr1wzwELzqjRI
+
+-----
 RESOURCES			
 			
-	CS7 Student Info	Google Doc	
-	Syllabus (training kit)	Link	
-	LS Code Solution how-to	Gist	
-	Patricks PM Description	Github	
-	Pair Programming Checklist	Github	
+	CS7 Student Info - https://docs.google.com/spreadsheets/d/1U7f93fjcB02d33--bMgC1-eEEyXrw_eH55duABnnurY/edit?ts=5a7ebee5#gid=1309477307
+	Syllabus (training kit)	- https://tk.lambdaschool.com/cs-master	
+	LS Code Solution how-to	- https://gist.github.com/tetondan/c5ef3989d9472da683bf692855ae65b0	
+	Patricks PM Description	- https://github.com/mixelpixel/LambdaSchoolTA#project-managers	
+	Pair Programming Checklist	- https://github.com/LambdaSchool/pair-programming-checklist	
